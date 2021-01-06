@@ -1,2 +1,2 @@
-# HololensShare-server
-Share Hololens Sight with android ,this is server
+# HololensShare
+Share Hololens Sight with android 
